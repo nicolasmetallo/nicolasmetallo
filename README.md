@@ -4,7 +4,7 @@
 **nicolasmetallo/nicolasmetallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a data scientist and maker currently based in London, UK. I'm interested in building products that solve real-world problems, work for everyone, and make sense in the community they are built into. I also grew up in my beloved Conurbano in Argentina, I'm a River Plate's fan, a food lover and an avid🧉&nbsp; drinker. 
+I'm a data scientist and maker currently based in London, UK. I'm interested in building products that solve real-world problems, can work for everyone, and make sense in the community they designed for. Outside of work, I enjoy spending time with my lovely wife, playing sports, and travelling. I’m also a River Plate’s fan, a food lover, and an avid 🧉&nbsp; drinker.
 
 - 🔭&nbsp; I’m currently working as a senior data scientist at AWS
 - 🌱&nbsp; I’m currently learning about front-end web development and all things transformers 
